@@ -8,9 +8,10 @@ Esse repositório tem como finalidade informar os projetos participantes, quais 
 ## Grupo 4
 #### Minha Globo
 Descrição: Uma plataforma que oferece uma experiência única e personalizada para o telespectador. Usando Big Data, ela cria um perfil para cada usuário do aplicativo e personaliza a programação da Globo de maneira exclusiva, numa timeline que reúne apenas o conteúdo que aquele usuário achará interessante.
+
 Apresentação: https://speakerdeck.com/joselitojunior/minha-globo-number-hackathonglobo
 
-| Equipe |
+| Nome | Função | Redes |
 | ------------- | ------------- | ------------- |
 |  Alda Rocha  | Designer  | Twitter, Linkedin |
 |  Adjamilton Júnior  | Backend  | Twitter, Linkedin |
