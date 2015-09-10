@@ -13,8 +13,8 @@ Apresentação: https://speakerdeck.com/joselitojunior/minha-globo-number-hackat
 
 | Nome | Função | Redes | Github |
 | ------------- | ------------- | ------------- | ------------- | 
-|  Alda Rocha  | Designer  | Twitter, Linkedin | @mjcoffeholick |
-|  Adjamilton Júnior  | Backend  | Twitter, Linkedin | ajunior |
-|  Gabriel Ilharco  | Backend/Frontend  | Twitter, Linkedin | @gabrielilharco |
-|  Joselito Júnior | Frontend  | Twitter, Linkedin | @joselitojunior |
-|  Yelken Gonzales | Backend/BigData  | Twitter, Linkedin | @yelken |
+|  Alda Rocha  | Designer  | [Twitter](https://twitter.com/mjcoffeeholick), [Linkedin](https://www.linkedin.com/profile/view?id=108260306) | @mjcoffeholick |
+|  Adjamilton Júnior  | Backend  |  | @ajunior |
+|  Gabriel Ilharco  | Backend/Frontend  |  | @gabrielilharco |
+|  Joselito Júnior | Frontend  |  | @joselitojunior |
+|  Yelken Gonzales | Backend/BigData  | [Twitter](http://twitter.com/joselitojunior1), [Linkedin](https://br.linkedin.com/in/joselitojunior) | @yelken |
