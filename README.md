@@ -28,7 +28,6 @@ Esse repositório tem como finalidade informar os projetos participantes, quais 
 
 | Nome | Função | Redes | Github/Bitbucket | Site pessoal |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-
 |  Aline Borges  | Android Developer/Designer  | [Facebook](https://www.facebook.com/alinekborges), [Linkedin](https://br.linkedin.com/pub/carlos-henrique-balsalobre/b7/114/55b) | @alinekborges | | http://www.alieeen.com.br/
 |  Carlos Balsalobre  | Backend  | [Facebook](https://www.facebook.com/WithCarlos8k), [Linkedin](https://br.linkedin.com/pub/carlos-henrique-balsalobre/b7/114/55b) | @carlos8k | |
 |  Fernando  Coelho  | Designer  |  [Facebook](https://www.facebook.com/nandoacoelho), [Linkedin](https://br.linkedin.com/in/nandoacoelho), [Twitter](http://twitter.com/nandoacoelho)   | @nandoacoelho | http://fernandocoelho.me |
