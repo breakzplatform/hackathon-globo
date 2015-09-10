@@ -23,7 +23,6 @@ Esse repositório tem como finalidade informar os projetos participantes, quais 
 - [IBM Bluemix](http://www.ibm.com/cloud-computing/bluemix/), para hospedagem e análise do Big Data
 
 |  |  | Equipe |  |  |
-| ------------- | ------------- | ------------- | ------------- | ------------- | 
 | Nome | Função | Redes | Github | Site pessoal |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 |  Alda Rocha  | Designer  | [Twitter](https://twitter.com/mjcoffeeholick), [Linkedin](https://www.linkedin.com/profile/view?id=108260306) | @mjcoffeholick | |
