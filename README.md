@@ -23,10 +23,10 @@ Esse repositório tem como finalidade informar os projetos participantes, quais 
 - [IBM Bluemix](http://www.ibm.com/cloud-computing/bluemix/), para hospedagem e análise do Big Data
 
 
-| Nome | Função | Redes | Github |
-| ------------- | ------------- | ------------- | ------------- | 
-|  Alda Rocha  | Designer  | [Twitter](https://twitter.com/mjcoffeeholick), [Linkedin](https://www.linkedin.com/profile/view?id=108260306) | @mjcoffeholick |
-|  Adjamilton Júnior  | Backend  |  | @ajunior |
-|  Gabriel Ilharco  | Backend/Frontend  |  | @gabrielilharco |
-|  Joselito Júnior | Frontend  | [Twitter](http://twitter.com/joselitojunior1), [Linkedin](https://br.linkedin.com/in/joselitojunior)  | @joselitojunior |
-|  Yelken Gonzales | Backend/BigData  |  | @yelken |
+| Nome | Função | Redes | Github | Site pessoal |
+| ------------- | ------------- | ------------- | ------------- | ------------- | 
+|  Alda Rocha  | Designer  | [Twitter](https://twitter.com/mjcoffeeholick), [Linkedin](https://www.linkedin.com/profile/view?id=108260306) | @mjcoffeholick | |
+|  Adjamilton Júnior  | Backend  |  | @ajunior | |
+|  Gabriel Ilharco  | Backend/Frontend  |  | @gabrielilharco | |
+|  Joselito Júnior | Frontend  | [Facebook](http://facebook.com/joselitojr)[Twitter](http://twitter.com/joselitojunior1), [Linkedin](https://br.linkedin.com/in/joselitojunior)  | @joselitojunior | http://joselito.ninja |
+|  Yelken Gonzales | Backend/BigData  |  | @yelken | |
