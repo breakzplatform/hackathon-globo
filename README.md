@@ -11,10 +11,10 @@ Descrição: Uma plataforma que oferece uma experiência única e personalizada 
 
 Apresentação: https://speakerdeck.com/joselitojunior/minha-globo-number-hackathonglobo
 
-| Nome | Função | Redes |
-| ------------- | ------------- | ------------- |
-|  Alda Rocha  | Designer  | Twitter, Linkedin |
-|  Adjamilton Júnior  | Backend  | Twitter, Linkedin |
-|  Gabriel Ilharco  | Backend/Frontend  | Twitter, Linkedin |
-|  Joselito Júnior | Frontend  | Twitter, Linkedin |
-|  Yelken Gonzales | Backend/BigData  | Twitter, Linkedin |
+| Nome | Função | Redes | Github |
+| ------------- | ------------- | ------------- | ------------- | 
+|  Alda Rocha  | Designer  | Twitter, Linkedin | @mjcoffeholick |
+|  Adjamilton Júnior  | Backend  | Twitter, Linkedin | ajunior |
+|  Gabriel Ilharco  | Backend/Frontend  | Twitter, Linkedin | @gabrielilharco |
+|  Joselito Júnior | Frontend  | Twitter, Linkedin | @joselitojunior |
+|  Yelken Gonzales | Backend/BigData  | Twitter, Linkedin | @yelken |
