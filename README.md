@@ -20,13 +20,14 @@ Esse repositório tem como finalidade informar os projetos participantes, quais 
 |  Yelken Gonzales | Backend/BigData  |  | @yelken |
 
 **Tecnologias**
+
 Linguagens de programação utilizadas:
 - JavaScript
 - Java
 
 Ferramentas utilizadas:
-- Ionic Framework, para desenvolvimento do app usando HTML5
-- Ionic Material, para o CSS da aplicação
-- Ionicons, para ícones
-- IBM Bluemix, para hospedagem e análise do Big Data
-
+- [Ionic Framework](http://ionicframework.com/), para desenvolvimento do app usando HTML5
+- [Ionic Material](http://ionicmaterial.com/), para o CSS da aplicação
+- [ngCordova](http://ngcordova.com/), para auxiliar a autenticação com o Twitter
+- [Ionicons](http://ionicons.com/), para ícones
+- [IBM Bluemix](http://www.ibm.com/cloud-computing/bluemix/), para hospedagem e análise do Big Data
