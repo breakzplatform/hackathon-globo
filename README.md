@@ -19,3 +19,14 @@ Esse repositório tem como finalidade informar os projetos participantes, quais 
 |  Joselito Júnior | Frontend  | [Twitter](http://twitter.com/joselitojunior1), [Linkedin](https://br.linkedin.com/in/joselitojunior)  | @joselitojunior |
 |  Yelken Gonzales | Backend/BigData  |  | @yelken |
 
+**Tecnologias**
+Linguagens de programação utilizadas:
+- JavaScript
+- Java
+
+Ferramentas utilizadas:
+- Ionic Framework, para desenvolvimento do app usando HTML5
+- Ionic Material, para o CSS da aplicação
+- Ionicons, para ícones
+- IBM Bluemix, para hospedagem e análise do Big Data
+
