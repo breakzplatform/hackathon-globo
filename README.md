@@ -11,6 +11,18 @@ Esse repositório tem como finalidade informar os projetos participantes, quais 
 
 **Apresentação:** https://speakerdeck.com/joselitojunior/minha-globo-number-hackathonglobo
 
+**Linguagens de programação utilizadas:**
+- JavaScript
+- Java
+
+**Ferramentas utilizadas:**
+- [Ionic Framework](http://ionicframework.com/), para desenvolvimento do app usando HTML5
+- [Ionic Material](http://ionicmaterial.com/), para o CSS da aplicação
+- [ngCordova](http://ngcordova.com/), para auxiliar a autenticação com o Twitter
+- [Ionicons](http://ionicons.com/), para ícones
+- [IBM Bluemix](http://www.ibm.com/cloud-computing/bluemix/), para hospedagem e análise do Big Data
+
+
 | Nome | Função | Redes | Github |
 | ------------- | ------------- | ------------- | ------------- | 
 |  Alda Rocha  | Designer  | [Twitter](https://twitter.com/mjcoffeeholick), [Linkedin](https://www.linkedin.com/profile/view?id=108260306) | @mjcoffeholick |
@@ -18,16 +30,3 @@ Esse repositório tem como finalidade informar os projetos participantes, quais 
 |  Gabriel Ilharco  | Backend/Frontend  |  | @gabrielilharco |
 |  Joselito Júnior | Frontend  | [Twitter](http://twitter.com/joselitojunior1), [Linkedin](https://br.linkedin.com/in/joselitojunior)  | @joselitojunior |
 |  Yelken Gonzales | Backend/BigData  |  | @yelken |
-
-**Tecnologias**
-
-Linguagens de programação utilizadas:
-- JavaScript
-- Java
-
-Ferramentas utilizadas:
-- [Ionic Framework](http://ionicframework.com/), para desenvolvimento do app usando HTML5
-- [Ionic Material](http://ionicmaterial.com/), para o CSS da aplicação
-- [ngCordova](http://ngcordova.com/), para auxiliar a autenticação com o Twitter
-- [Ionicons](http://ionicons.com/), para ícones
-- [IBM Bluemix](http://www.ibm.com/cloud-computing/bluemix/), para hospedagem e análise do Big Data
