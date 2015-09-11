@@ -59,7 +59,7 @@ ___________________________________
 | Nome | Função | Redes | Github | Site pessoal |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 |  Alda Rocha  | Designer  | [Twitter](https://twitter.com/mjcoffeeholick), [Linkedin](https://www.linkedin.com/profile/view?id=108260306) | @mjcoffeholick | |
-|  Adjamilton Júnior  | Backend  |  | @ajunior | |
+|  Adjamilton Júnior  | Backend  | [Facebook](http://facebook.com/ajr.almeida), [Twitter](https://twitter.com/ajr_almeida) | @ajunior | |
 |  Gabriel Ilharco  | Backend/Frontend  |  | @gabrielilharco | |
 |  Joselito Júnior | Frontend  | [Facebook](http://facebook.com/joselitojr), [Twitter](http://twitter.com/joselitojunior1), [Linkedin](https://br.linkedin.com/in/joselitojunior)  | @joselitojunior | http://joselito.ninja |
 |  Yelken Gonzales | Backend/BigData  |  | @yelken | |
