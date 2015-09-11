@@ -37,6 +37,39 @@ Esse repositório tem como finalidade informar os projetos participantes, quais 
 
 ___________________________________
 
+## Grupo 3
+#### Maestro
+**Descrição:** Interface para controle de posicionamento de câmeras à distância, utilizando movimento das mãos. Dessa forma, repórteres que estiverem sozinhos poderão gerar conteúdo dinâmico, com câmeras móveis, mesmo em links ao vivo. Ao final do Hackathon Globo, o protótipo foi capaz de controlar, de forma independente, o posicionamento horizontal e vertical de duas câmeras.
+
+**Demonstração:** [YouTube](https://youtu.be/bSnN2MHOCd4)
+
+**Linguagens de programação utilizadas:**
+- C
+- C++
+- Python
+- Javascript
+
+**Ferramentas utilizadas:**
+- [Myo](http://www.myo.com), para detectar movimentos da mão
+- [GoPro](http://gopro.com/), para filmar o reporter
+- [Arduino](https://www.arduino.cc/), para controlar os motores
+- [NodeJS](https://nodejs.org/en/), para streaming de vídeo da GoPro
+- [Impressão 3D](https://en.wikipedia.org/wiki/3D_printing), para gerar a base de sustentação do protótipo
+- [Servomotores](https://en.wikipedia.org/wiki/Servomotor), para controlar o posicionamento dos suportes das câmeras
+
+**Equipe:**
+
+| Nome | Função | Redes | Github/Bitbucket | Site pessoal |
+| ------------- | ------------- | ------------- | ------------- | ------------- | 
+|  Fabiano Monte  | Hardware  | [Facebook](https://www.facebook.com/fabianowebes) | @webes | |
+|  Daniel Buckentin  | Hardware  | [Facebook](https://www.facebook.com/daniel.buckentin) | @danielbk18 | |
+|  Luan Andrade  | Streaming de GoPro | [Facebook](https://www.facebook.com/oluan) | @lsandrade | |
+|  Matheus Portela  | Integração com Myo | [Facebook](https://www.facebook.com/matheus.v.portela), [Twitter](https://twitter.com/matheusvportela), [LinkedIn](https://br.linkedin.com/in/matheusportela) | @matheusportela | [matheusportela.com](http://www.matheusportela.com) |
+|  Vitor Meriat  | Streaming de GoPro e Hardware | [Facebook](https://www.facebook.com/vitor.meriat) [Twitter](https://twitter.com/vitormeriat) | @vitormeriat | [vitormeriat.com.br](http://www.vitormeriat.com.br) |
+
+
+___________________________________
+
 ## Grupo 4
 #### Minha Globo
 **Descrição:** Uma plataforma que oferece uma experiência única e personalizada para o telespectador. Usando Big Data, ela cria um perfil para cada usuário do aplicativo e personaliza a programação da Globo de maneira exclusiva, numa timeline que reúne apenas o conteúdo que aquele usuário achará interessante.
