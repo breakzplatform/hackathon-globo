@@ -36,6 +36,34 @@ Esse repositório tem como finalidade informar os projetos participantes, quais 
 
 
 ___________________________________
+## Grupo 2
+#### Second Screen - Sentimentos do Telespectador
+**Descrição:** Uma plataforma onde os telespectadores podem dar feedbacks sobre a programação atual, interagindo entre todas pessoas que estão assistindo o mesmo programa. A plataforma conta com um app de Second Screen, onde é possível ver as últimas expressões de quem está assistindo, comentar cenas, participar de atividades envolvendo Gamefication, e acompanhar o que o restante do público está achando da programação. No protótipo, através de cameras e sensores do Kinect, a plataforma é capaz de avaliar as micro expressões do rosto humano e gerar estatísticas adicionais sobre as reações do público. É possível saber, por exemplo, se o público está feliz, triste ou com raiva em relação ao que está passando. Essas informações geram em tempo real um termômetro que pode ser utilizado por um produtor, em um programa Ao Vivo, para saber quando segurar ou acelerar determinado bloco, entrevista ou qualquer reportagem. Além da informação em tempo real, a plataforma também gera relatórios periódicos sobre quais programas estão repelindo o público, de forma que a TV possa tomar decisões de forma proativa, antes que o público abandone seu canal.
+
+**Apresentação:** [Link](http://www.slideshare.net/DouglasFischer/hackathon-globo-na-casa-do-big-brother-brasil-projeto-do-time-2-feedback-atravs-de-emoes)
+
+**Linguagens de programação utilizadas:**
+- Objective-C (iOS)
+- C# .NET (Integração Kinect)
+- C++ (Integração Kinect e Backend)
+
+**Ferramentas utilizadas:**
+- [iOS SDK](http://developer.apple.com/ios), SDK de desenvolvimento nativo em plataformas Apple.
+- [MS Kinect SDK](http://www.microsoft.com/en-us/download/details.aspx?id=40278), SDK de desenvolvimento nativo para integração com o Kinect do Xbox 360.
+- [Parse](https://parse.com), Plataforma do Facebook que permite a criação e consumo de API's para apps, de forma rápida e escalável.
+
+**Equipe:**
+
+| Nome | Função | Redes | Github/Bitbucket | Site pessoal |
+| ------------- | ------------- | ------------- | ------------- | ------------- | 
+|  Douglas Fischer  | Mobile Tech Lead / Community Manager  | [Facebook](https://www.facebook.com/dougdiskin), [Linkedin](https://br.linkedin.com/in/dougdiskin), [Twitter](http://twitter.com/DougDiskin) | @DougFischer | [Abacomm](http://www.abacomm.com.br/) | 
+|  Kleber Bastos  | Desenvolvedor  | [Facebook](https://www.facebook.com/KleberBastos2), [Linkedin](www.linkedin.com) |  | |
+|  Alexandre Muzio  | Desenvolvedor  |  [Facebook](https://www.facebook.com/ale.muzio), [Linkedin](https://br.linkedin.com),|||
+|  Mateus Camargo | Desenvolvedor  | [Facebook](https://www.facebook.com/matheusmcacamargo), [Linkedin](https://br.linkedin.com)  | | |
+|  Wellington Azevedo | Desenvolvedor  | [Facebook](https://www.facebook.com/weazevedo), [Linkedin](https://www.linkedin.com/)  | | |
+
+
+___________________________________
 
 ## Grupo 3
 #### Maestro
